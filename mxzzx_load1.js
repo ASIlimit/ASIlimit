@@ -472,7 +472,7 @@ const oldRadmirConfig = {
       body .OLD-RADMIR-logo__bonus {
     background: #000000c5
 }
-body .authorization{background:0 0}#app .authorization{background-image:url(https://a.imgfoto.host/2025/05/12/auth52d0120d1cba4030.png);background-size:auto 100vh}
+body .authorization{background:0 0}#app .authorization{background-image:url(https://a.imgfoto.host/2025/06/16/auth.png);background-size:auto 100vh}
       `;
       document.head.appendChild(hudStyleElement);
       const hudElement = document.createElement("div");
